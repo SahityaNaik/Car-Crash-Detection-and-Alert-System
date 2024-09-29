@@ -11,8 +11,8 @@ sender_email = 'your_email@gmail.com'  # replace with your actual email
 sender_name = 'your_name'   # add your name
 password = 'your_password' # add your email password
 server=None
-receiver_emails = ['sahityanaik01@gmail.com']
-receiver_names = ['sahitya']
+receiver_emails = ['receivers_email'] # add receivers email
+receiver_names = ['receivers_name']  # add receivers name
 
 # Email body
 #email_html = open('email.html')
