@@ -14,7 +14,7 @@ smtplib (for sending email notifications)
 ## Installation
 
 1. Clone the repository:  
-git clone https://github.com/your-username/your-repo-name.git  
+git clone https://github.com/SahityaNaik/Car-Crash-Detection-and-Alert-System  
 cd your-repo-name
 
 
@@ -23,8 +23,7 @@ pip install opencv-python pyttsx3 numpy
 
 
 3. Download the YOLOv3 weights file:  
- Download the weights file from Google Drive.
-
+ Download the weights file from Google Drive: https://drive.google.com/file/d/11wnDebtXz_LFNycm-I3trNsdJ96d-OUQ/view?usp=sharing
 4. Place the yolov3.weights file in the yolo-coco/ directory of your project.
 
  ## Usage  
