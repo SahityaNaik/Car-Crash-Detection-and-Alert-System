@@ -13,19 +13,19 @@ smtplib (for sending email notifications)
 
 ## Installation
 
-# 1. Clone the repository:  
+1. Clone the repository:  
 git clone https://github.com/your-username/your-repo-name.git  
 cd your-repo-name
 
 
-# 2. Install required packages:  
+2. Install required packages:  
 pip install opencv-python pyttsx3 numpy
 
 
-# 3. Download the YOLOv3 weights file:  
+3. Download the YOLOv3 weights file:  
  Download the weights file from Google Drive.
 
- # 4. Place the yolov3.weights file in the yolo-coco/ directory of your project.
+4. Place the yolov3.weights file in the yolo-coco/ directory of your project.
 
  ## Usage  
 
