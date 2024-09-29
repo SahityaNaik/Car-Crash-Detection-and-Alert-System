@@ -46,4 +46,12 @@ The system uses the YOLOv3 object detection model to:
 - `yolo-coco/coco.names`: Class labels used by the YOLO model.  
 - `yolo-coco/yolov3.cfg`: Configuration file for the YOLOv3 model.  
 - `output/`: Directory where detected crash images are saved.  
-- `crash1.png`: Background image used in the GUI.  
+- `crash1.png`: Background image used in the GUI.
+
+## Note
+In the `sendmail.py` file, replace the placeholders for:
+- `sender_email`: Your email address
+- `sender_name`: Your name
+- `password`: Your email password (use an app-specific password if needed)
+- `receiver_emails`: The recipient's email address
+- `receiver_names`: The recipient's name
