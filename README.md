@@ -14,7 +14,7 @@ smtplib (for sending email notifications)
 ## Installation
 
 # 1. Clone the repository:  
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/your-repo-name.git  
 cd your-repo-name
 
 
@@ -39,11 +39,11 @@ The system uses the YOLOv3 object detection model to identify vehicles in a vide
 
 ## File Descriptions  
 
-carcrashtikinter.py: Main application file that includes the GUI and crash detection logic.  
-sendmail.py: Contains functions for sending email alerts.  
-yolov3.weights: YOLOv3 model weights for object detection (hosted on Google Drive).  
-yolo-coco/coco.names: Class labels used by the YOLO model.  
-yolo-coco/yolov3.cfg: Configuration file for the YOLOv3 model.  
-output/: Directory where detected crash images are saved.  
-crash1.png: Background image used in the GUI.  
+carcrashtikinter.py:   Main application file that includes the GUI and crash detection logic.  
+sendmail.py:   Contains functions for sending email alerts.  
+yolov3.weights:   YOLOv3 model weights for object detection (hosted on Google Drive).  
+yolo-coco/coco.names:   Class labels used by the YOLO model.  
+yolo-coco/yolov3.cfg:   Configuration file for the YOLOv3 model.  
+output/:   Directory where detected crash images are saved.  
+crash1.png:   Background image used in the GUI.  
  
