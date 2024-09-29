@@ -7,9 +7,9 @@ from email.mime.base import MIMEBase  # New line
 from email import encoders  # New line
 
 # User configuration
-sender_email = 'your_email@gmail.com'  # replace with your actual email later
+sender_email = 'your_email@gmail.com'  # replace with your actual email 
 sender_name = 'your_name'   # add your name
-password = 'xygcnryazbgipshz' # add your email password
+password = 'your_password' # add your email password
 server=None
 receiver_emails = ['sahityanaik01@gmail.com']
 receiver_names = ['sahitya']
