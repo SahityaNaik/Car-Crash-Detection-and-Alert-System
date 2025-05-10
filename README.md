@@ -1,6 +1,6 @@
 ## Car Crash Detection and Alert System
 
-This project is a Car Crash Detection and Alert System designed to identify potential vehicle collisions using video input. The system utilizes the YOLOv3 model for real-time object detection and provides alerts via speech synthesis and email notifications.
+This project is a Car Crash Detection and Alert System designed to detect vehicle collisions using video input. The system utilizes the YOLOv3 model for real-time object detection and provides alerts via speech synthesis and email notifications.
 
 ## Technologies Used
 
