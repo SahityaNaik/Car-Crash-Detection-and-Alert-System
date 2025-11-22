@@ -4,4 +4,5 @@ __pycache__/
 output/
 .venv/
 venv/
+yolo-coco/yolov3.weights
 
