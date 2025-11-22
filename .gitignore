@@ -5,4 +5,8 @@ output/
 .venv/
 venv/
 yolo-coco/yolov3.weights
+Crash/
+*.mp4
+*.avi
+*.mov
 
