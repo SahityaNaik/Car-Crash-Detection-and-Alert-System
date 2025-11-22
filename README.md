@@ -67,11 +67,11 @@ The system uses the YOLOv3 object detection model to:
 ## File Descriptions  
 
 - `carcrashtkinter.py`: Main application file that includes the GUI and crash detection logic.  
-- `sendmail.py`: Contains functions for sending email alerts (uses environment variables from `.env`).  
+- `sendmail.py`: Contains functions for sending email alerts.    
 - `yolo-coco/yolov3.weights`: YOLOv3 model weights for object detection (download from Google Drive).  
 - `yolo-coco/coco.names`: Class labels used by the YOLO model.  
 - `yolo-coco/yolov3.cfg`: Configuration file for the YOLOv3 model.  
 - `output/`: Directory where detected crash images are saved.  
 - `Images/crash1.png`: Background image used in the GUI.
-- `.env`: Environment variables file for email credentials 
+- `.env`: Environment variables file for email credentials.  
 - `env.example`: Template file showing required environment variables.
